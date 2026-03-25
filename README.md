@@ -1,16 +1,20 @@
-# coffe_shop_app
+# Coffee Shop App UI
 
-A new Flutter project.
+A modern Coffee Shop UI App built using Flutter & Dart.
+It provides a clean and attractive interface for browsing coffee items.
 
-## Getting Started
+# Features
+Beautiful UI design
+Coffee item listing
+Product detail screen
+Smooth navigation
+#  Tech Stack
+Flutter
+Dart
+# Screenshots
+![App Screenshot](https://github.com/MuhammadTahir18/coffee_app_ui/blob/6bf506109ad9bc1beb6571176fd9b1819cc0c0d5/1.jpeg)
+![App Screenshot](https://github.com/MuhammadTahir18/coffee_app_ui/blob/6bf506109ad9bc1beb6571176fd9b1819cc0c0d5/2.jpeg)
+![App Screenshot](https://github.com/MuhammadTahir18/coffee_app_ui/blob/6bf506109ad9bc1beb6571176fd9b1819cc0c0d5/WhatsApp%20Image%202026-03-24%20at%2011.55.29%20PM%20(1).jpeg)
+![App Screenshot](https://github.com/MuhammadTahir18/coffee_app_ui/blob/6bf506109ad9bc1beb6571176fd9b1819cc0c0d5/3.jpeg)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
